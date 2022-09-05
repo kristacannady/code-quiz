@@ -29,8 +29,8 @@
         //Define questions (Object)
     var questionSource = [
         {
-            question: "Questions 1 : String values must be enclosed within _____ when being assigned to variables.",
-            choices: ["a. commas", "b. curly brackets", "c. quotes", "d. parenthesis"],
+            question: "Questions 1 : What changes the background color of an element?",
+            choices: ["a. background-image", "b. background-repeat", "c. background-color", "d. background-position"],
             answer: "c"
         },
         {
@@ -49,13 +49,13 @@
             answer: "c"
         },
         {
-            question: "Questions 5 : To see if two variables are equal in an if / else statement you would use ____.",
-            choices: ["a. =", "b. ==", "c. 'equals'", "d. !="],
+            question: "Questions 5 : What is the default value of Boolean variable?",
+            choices: ["a. true", "b. false", "c. 'equals'", "d. not defined"],
             answer: "b"
         },
         {
-            question: "Questions 6 : The first index of an array is ____.",
-            choices: ["a. 0", "b. 1", "c. 8", "d. any"],
+            question: "Questions 6 : What HTML element makes text bold?",
+            choices: ["a. <b>", "b. <li>", "c. <<b>>", "d. <p"],
             answer: "a"
         },
         {
