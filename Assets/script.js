@@ -64,9 +64,9 @@
             answer: "c"
         },
         {
-            question: "Questions 8 : Which event occurs when the user clicks on an HTML element?",
-            choices: ["a. onclick", "b. onchange", "c. onmouseover", "d. onmouseclick"],
-            answer: "a"
+            question: "Questions 8 : What does HTML stand for?",
+            choices: ["a. Hypertext Machine Language", "b. Hypertext and links markup language", "c. Hypertext Markup Language", "d. Hightext Machine Language"],
+            answer: "c"
         }
     ];
         //Set other variables
